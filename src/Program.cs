@@ -1,0 +1,3 @@
+﻿using StringManipulation;
+
+Menu.MainMenu();
